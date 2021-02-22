@@ -1,0 +1,8 @@
+why browser stuck
+why i move code outside of controller
+what is services in rails
+autoloading in rails
+explain publisher class
+
+
+form_for
